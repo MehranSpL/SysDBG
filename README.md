@@ -75,7 +75,7 @@ sysdbg.systeminfo()
 sysdbg.prefetchget()
 ~~~
 
-**This function will logs the files first runned date to a file**
+**This function will logs the Prefetch files modified date to a file.**
 
 
 # Where files placed?
